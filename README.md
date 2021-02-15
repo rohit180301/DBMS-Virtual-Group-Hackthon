@@ -1,2 +1,2 @@
-# DBMS-Virtual-Group-Hackthon
+# DBMS-Virtual-Group-Hackathon
 Group Test Assignment 
